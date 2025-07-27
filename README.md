@@ -77,4 +77,4 @@ Each fundamental concept gets its own dedicated section below, designed for clar
 
 ## Want to suggest a concept to explain or have a question?
 
-Feel free to [open an issue here](https://github.com/Ghostio-cmd/privacy-fundamentals-explained/issues)!
+Feel free to [open an issue here](https://github.com/LuneX403/privacy-fundamentals-explained/issues)!
